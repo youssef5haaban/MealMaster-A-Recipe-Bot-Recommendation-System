@@ -35,7 +35,7 @@ The dataset used for the project, sourced from Kaggle, contains over 8,000 recip
 
 ![Chatbot Screenshot 2](https://github.com/youssef5haaban/MealMaster-A-Recipe-Bot-Recommendation-System/assets/83844687/91d5c433-6414-485f-ac90-01ce6d6b5e17)
 
-![Chatbot Screenshot 3]![image](https://github.com/youssef5haaban/MealMaster-A-Recipe-Bot-Recommendation-System/assets/83844687/aae7b4f1-9d9a-4f4d-8b8c-c5895903e49f)
+![Chatbot Screenshot 3](https://github.com/youssef5haaban/MealMaster-A-Recipe-Bot-Recommendation-System/assets/83844687/aae7b4f1-9d9a-4f4d-8b8c-c5895903e49f)
 
 
 ## License
